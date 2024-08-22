@@ -1,3 +1,5 @@
+
+<!--
 ## Hi there 👋 I am Aylin!
 
 ### Rising Senior in Computer Science at WMU
@@ -12,7 +14,6 @@
 <a href="https://www.linkedin.com/in/aylin-aytemiz-b8a650183/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 
-<!--
 **aylinayt/aylinayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
