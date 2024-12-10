@@ -3,12 +3,7 @@
 
 ### 🎓 Senior in Computer Science at Western Michigan University  
 - 🔭 I’m currently working on **Computer Vision and Autonomous Systems**  
-- 🌱 I’m exploring **Transformers, Vision Transformers, and Hyperspectral Deep Learning**  
-- 💻 Passionate about **Machine Learning, Medical AI, and Computer Vision**  
-- 👯 I’m looking to collaborate on **AI projects in healthcare**  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I love attending **WNBA games**!  
-
+- 🌱 I’m exploring **Transformers, Vision Transformers, and Hyperspectral Deep Learning** 
 <br/>
 
 ### 📫 Let's Connect:
@@ -16,6 +11,4 @@
 
 ---
 
-- 🔭 I’m currently working on **ROS2 object detection and Carla simulations**  
-- 🌱 I’m currently learning about **graph neural networks and clustering techniques**  
-- 🤔 I’m looking for help with **biomedical image analysis algorithms**
+- 🔭 I’m currently working on **ROS2 object detection and Carla simulations** 
