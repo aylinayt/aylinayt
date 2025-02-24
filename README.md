@@ -11,4 +11,4 @@
 
 ---
 
-- 🔭 I’m currently working on **ROS2 object detection and Carla simulations** 
+- 🔭 I’m currently working on **Object detection in VR** 
